@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RAIZ>
+  <REGISTO REGID="fgrtsde">
+    <NOME>joaquim</NOME>
+    <TELEMOVEL>914567890</TELEMOVEL>
+    <GENERO>M</GENERO>
+    <TIPOSANGUE>A+</TIPOSANGUE>
+    <MORADA>rua1</MORADA>
+    <CEDPROF>
+    </CEDPROF>
+    <USERNAME>fgrtsde</USERNAME>
+    <PASSWORD>123</PASSWORD>
+  </REGISTO>
+</RAIZ>

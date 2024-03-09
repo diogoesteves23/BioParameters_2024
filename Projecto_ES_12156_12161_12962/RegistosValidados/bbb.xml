@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RAIZ>
+  <REGISTO REGID="bbb">
+    <NOME>bbb</NOME>
+    <TELEMOVEL>456777154</TELEMOVEL>
+    <DTNASCIMENTO>1890-10-02</DTNASCIMENTO>
+    <GENERO>M</GENERO>
+    <EMAIL>test_bb@email.aaa</EMAIL>
+    <TIPOSANGUE>O+</TIPOSANGUE>
+    <MORADA>rua do areias</MORADA>
+    <CODPOSTAL>4895-452</CODPOSTAL>
+    <LOCALIDADE>Alfena</LOCALIDADE>
+    <CEDPROF>
+    </CEDPROF>
+    <USERNAME>bbb</USERNAME>
+    <PASSWORD>123bbb</PASSWORD>
+    <TIPOPERFIL>Utente</TIPOPERFIL>
+  </REGISTO>
+</RAIZ>

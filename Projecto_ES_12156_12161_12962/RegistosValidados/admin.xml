@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RAIZ>
+  <REGISTO REGID="admin">
+    <NOME>Administrador</NOME>
+    <TELEMOVEL>913646467</TELEMOVEL>
+    <DTNASCIMENTO>1997-09-23</DTNASCIMENTO>
+    <GENERO>M</GENERO>
+    <EMAIL>email_admin@admin.pt</EMAIL>
+    <TIPOSANGUE>A-</TIPOSANGUE>
+    <MORADA>Rua Engenheiro Dias</MORADA>
+    <CODPOSTAL>4000-996</CODPOSTAL>
+    <LOCALIDADE>Porto</LOCALIDADE>
+    <CEDPROF>
+    </CEDPROF>
+    <USERNAME>admin</USERNAME>
+    <PASSWORD>admin</PASSWORD>
+    <TIPOPERFIL>Administrador</TIPOPERFIL>
+  </REGISTO>
+</RAIZ>

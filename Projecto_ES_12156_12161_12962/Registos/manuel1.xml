@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RAIZ>
+  <REGISTO REGID="manuel1">
+    <NOME>manuel</NOME>
+    <TELEMOVEL>914567890</TELEMOVEL>
+    <GENERO>M</GENERO>
+    <TIPOSANGUE>O+</TIPOSANGUE>
+    <MORADA>rua1</MORADA>
+    <CEDPROF>
+    </CEDPROF>
+    <USERNAME>manuel1</USERNAME>
+    <PASSWORD>123nel</PASSWORD>
+  </REGISTO>
+</RAIZ>

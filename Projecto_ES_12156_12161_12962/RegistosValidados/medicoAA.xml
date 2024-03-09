@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RAIZ>
+  <REGISTO REGID="medicoAA">
+    <NOME>medico</NOME>
+    <TELEMOVEL>253456789</TELEMOVEL>
+    <DTNASCIMENTO>1996-05-05</DTNASCIMENTO>
+    <GENERO>M</GENERO>
+    <EMAIL>medico_aaa@med.com</EMAIL>
+    <TIPOSANGUE>AB-</TIPOSANGUE>
+    <MORADA>rua da clinica</MORADA>
+    <CODPOSTAL>4758-560</CODPOSTAL>
+    <LOCALIDADE>Guimaraes</LOCALIDADE>
+    <CEDPROF>45678412</CEDPROF>
+    <USERNAME>medicoAA</USERNAME>
+    <PASSWORD>123medico</PASSWORD>
+    <TIPOPERFIL>Medico</TIPOPERFIL>
+  </REGISTO>
+</RAIZ>
